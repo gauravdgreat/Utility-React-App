@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauravdgreat/utility-react-app/static/css/main.020c87e4.css",
+    "main.js": "/gauravdgreat/utility-react-app/static/js/main.0654760d.js",
+    "static/js/453.430cf63b.chunk.js": "/gauravdgreat/utility-react-app/static/js/453.430cf63b.chunk.js",
+    "index.html": "/gauravdgreat/utility-react-app/index.html",
+    "main.020c87e4.css.map": "/gauravdgreat/utility-react-app/static/css/main.020c87e4.css.map",
+    "main.0654760d.js.map": "/gauravdgreat/utility-react-app/static/js/main.0654760d.js.map",
+    "453.430cf63b.chunk.js.map": "/gauravdgreat/utility-react-app/static/js/453.430cf63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020c87e4.css",
+    "static/js/main.0654760d.js"
+  ]
+}
